@@ -1,0 +1,66 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+		nav {
+				background color: #444;
+				padding: 10px;
+				text-align: center;
+			}
+		    nav a {
+				color: #000000;
+				text-decoration: none;
+				margin: 0 20px;
+			}
+			
+			article {
+				background-color: #fff;
+				padding: 20px;
+				margin: 20px;
+				border: 1px solid #ccc;
+				border-radius: 5px;
+			}
+
+			section {
+				background-color: #f9f9f9;
+				padding: 20px;
+				margin: 20px;
+				border: 1px solid #ccc;
+				border-radius: 5px;
+			}
+
+			aside {
+				background color: #444;
+				color: #fff;
+				padding: 10px;
+				text-align: left;
+			}
+
+			main {
+				padding: 20px;
+			}
+
+			footer {
+				background-color: #333;
+				color: #fff;
+				text-align: center;
+				padding: 10px;
+			}
+			.jumbotron {
+				background-color: #5E74A1;
+				color: #ffffff;
+				padding: 100px 25px;
+				font-family: sans-serif;
+				text-aling: center
+			}
+			.container-fluid {
+				padding: 40px 50px;
+			}
+		
